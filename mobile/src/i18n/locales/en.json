@@ -1,0 +1,77 @@
+{
+  "appName": "Equb Digital",
+  "tagline": "Transparent rotating savings",
+  "common": {
+    "loading": "Loading…",
+    "save": "Save",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "error": "Something went wrong",
+    "etb": "ETB {{amount}}",
+    "success": "Success"
+  },
+  "auth": {
+    "login": "Log in",
+    "register": "Create account",
+    "phone": "Phone number",
+    "password": "Password",
+    "fullName": "Full name",
+    "email": "Email (optional)",
+    "language": "Language",
+    "noAccount": "New here?",
+    "hasAccount": "Already registered?",
+    "logout": "Log out"
+  },
+  "tabs": {
+    "home": "Home",
+    "equbs": "My Equbs",
+    "payments": "Payments",
+    "notifications": "Alerts",
+    "profile": "Profile"
+  },
+  "home": {
+    "welcome": "Welcome, {{name}}",
+    "myGroups": "Your equb groups",
+    "createEqub": "Create equb",
+    "joinEqub": "Join with code",
+    "empty": "You have not joined any equb yet."
+  },
+  "equb": {
+    "name": "Equb name",
+    "description": "Description",
+    "amount": "Contribution amount",
+    "maxMembers": "Max members",
+    "frequency": "Frequency",
+    "startDate": "Start date",
+    "inviteCode": "Invite code",
+    "members": "Members",
+    "cycles": "Cycles",
+    "start": "Start equb",
+    "status": "Status",
+    "position": "Payout position #{{n}}",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "biweekly": "Biweekly",
+    "monthly": "Monthly"
+  },
+  "payment": {
+    "contribute": "Contribute",
+    "method": "Payment method",
+    "reference": "Reference code",
+    "confirm": "Confirm",
+    "reject": "Reject",
+    "history": "My contributions",
+    "payout": "Process payout",
+    "pending": "Pending",
+    "confirmed": "Confirmed"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "No notifications yet",
+    "markAll": "Mark all read"
+  },
+  "profile": {
+    "title": "Profile",
+    "changeLanguage": "App language"
+  }
+}

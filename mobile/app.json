@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Equb Digital",
+    "slug": "ethiopian-digital-equb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B3D2E"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "et.equb.digital"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0B3D2E"
+      },
+      "package": "et.equb.digital"
+    },
+    "extra": {
+      "apiUrl": "http://10.0.2.2:5000/api"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "appName": "Ikub Dijitaalaa",
+  "tagline": "Qusannaa naannoo ifa ta'e",
+  "common": {
+    "loading": "Fe'aa jira…",
+    "save": "Olkaa'i",
+    "cancel": "Dhiisi",
+    "retry": "Irra deebi'i",
+    "error": "Dogoggorri uumame",
+    "etb": "ETB {{amount}}",
+    "success": "Milkaa'eera"
+  },
+  "auth": {
+    "login": "Seeni",
+    "register": "Akaawuntii uumi",
+    "phone": "Lakkoofsa bilbilaa",
+    "password": "Jecha iccitii",
+    "fullName": "Maqaa guutuu",
+    "email": "Imeelii (filannoo)",
+    "language": "Afaan",
+    "noAccount": "Haaraa dha?",
+    "hasAccount": "Akaawuntii qabdaa?",
+    "logout": "Ba'i"
+  },
+  "tabs": {
+    "home": "Mana",
+    "equbs": "Ikuboota koo",
+    "payments": "Kaffaltii",
+    "notifications": "Beeksisa",
+    "profile": "Profaayilii"
+  },
+  "home": {
+    "welcome": "Baga nagaan dhufte, {{name}}",
+    "myGroups": "Gareewwan ikub kee",
+    "createEqub": "Ikub uumi",
+    "joinEqub": "Koodiin makami",
+    "empty": "Ammaatti ikub tokkollee hin makamne."
+  },
+  "equb": {
+    "name": "Maqaa ikub",
+    "description": "Ibsa",
+    "amount": "Hanga gumaacha",
+    "maxMembers": "Miseensota olaanaa",
+    "frequency": "Yeroo",
+    "startDate": "Guyyaa jalqabaa",
+    "inviteCode": "Koodii afeerraa",
+    "members": "Miseensota",
+    "cycles": "Marsaa",
+    "start": "Ikub jalqabi",
+    "status": "Haala",
+    "position": "Iddoo kaffaltii #{{n}}",
+    "daily": "Guyyaa guyyaan",
+    "weekly": "Torbee",
+    "biweekly": "Torbee lama",
+    "monthly": "Ji'a"
+  },
+  "payment": {
+    "contribute": "Gumaachi",
+    "method": "Mala kaffaltii",
+    "reference": "Koodii wabii",
+    "confirm": "Mirkaneessi",
+    "reject": "Diddi",
+    "history": "Gumaacha koo",
+    "payout": "Kaffaltii raawwadhu",
+    "pending": "Eegaa jira",
+    "confirmed": "Mirkanaa'eera"
+  },
+  "notifications": {
+    "title": "Beeksisa",
+    "empty": "Beeksisni hin jiru",
+    "markAll": "Hunda dubbifame godhi"
+  },
+  "profile": {
+    "title": "Profaayilii",
+    "changeLanguage": "Afaan app"
+  }
+}

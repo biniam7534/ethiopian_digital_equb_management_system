@@ -1,0 +1,20 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: equb-postgres
+    environment:
+      POSTGRES_DB: equb_db
+      POSTGRES_USER: equb_user
+      POSTGRES_PASSWORD: equb_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - equb_pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U equb_user -d equb_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  equb_pg_data:

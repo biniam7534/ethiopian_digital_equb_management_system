@@ -1,0 +1,77 @@
+{
+  "appName": "ዲጂታል እቁብ",
+  "tagline": "ግልጽ የሚሽከረከር ቁጠባ",
+  "common": {
+    "loading": "በመጫን ላይ…",
+    "save": "አስቀምጥ",
+    "cancel": "ሰርዝ",
+    "retry": "እንደገና ሞክር",
+    "error": "ስህተት ተከስቷል",
+    "etb": "ብር {{amount}}",
+    "success": "ተሳክቷል"
+  },
+  "auth": {
+    "login": "ግባ",
+    "register": "መለያ ፍጠር",
+    "phone": "ስልክ ቁጥር",
+    "password": "የይለፍ ቃል",
+    "fullName": "ሙሉ ስም",
+    "email": "ኢሜይል (አማራጭ)",
+    "language": "ቋንቋ",
+    "noAccount": "አዲስ ነዎት?",
+    "hasAccount": "መለያ አለዎት?",
+    "logout": "ውጣ"
+  },
+  "tabs": {
+    "home": "መነሻ",
+    "equbs": "እቁቦቼ",
+    "payments": "ክፍያዎች",
+    "notifications": "ማሳወቂያ",
+    "profile": "መገለጫ"
+  },
+  "home": {
+    "welcome": "እንኳን ደህና መጡ፣ {{name}}",
+    "myGroups": "የእቁብ ቡድኖችዎ",
+    "createEqub": "እቁብ ፍጠር",
+    "joinEqub": "በኮድ ይቀላቀሉ",
+    "empty": "እስካሁን ምንም እቁብ አልተቀላቀሉም።"
+  },
+  "equb": {
+    "name": "የእቁብ ስም",
+    "description": "መግለጫ",
+    "amount": "የአስተዋጽኦ መጠን",
+    "maxMembers": "ከፍተኛ አባላት",
+    "frequency": "ድግግሞሽ",
+    "startDate": "መጀመሪያ ቀን",
+    "inviteCode": "የግብዣ ኮድ",
+    "members": "አባላት",
+    "cycles": "ዑደቶች",
+    "start": "እቁብ ጀምር",
+    "status": "ሁኔታ",
+    "position": "የክፍያ ቦታ #{{n}}",
+    "daily": "ዕለታዊ",
+    "weekly": "ሳምንታዊ",
+    "biweekly": "ሁለት ሳምንት",
+    "monthly": "ወርሃዊ"
+  },
+  "payment": {
+    "contribute": "አስተዋጽኦ አድርግ",
+    "method": "የክፍያ ዘዴ",
+    "reference": "ማጣቀሻ ኮድ",
+    "confirm": "አረጋግጥ",
+    "reject": "ውድቅ",
+    "history": "አስተዋጽኦዎቼ",
+    "payout": "ክፍያ አካሂድ",
+    "pending": "በመጠባበቅ",
+    "confirmed": "ተረጋግጧል"
+  },
+  "notifications": {
+    "title": "ማሳወቂያዎች",
+    "empty": "ምንም ማሳወቂያ የለም",
+    "markAll": "ሁሉንም እንደተነበበ ምልክት"
+  },
+  "profile": {
+    "title": "መገለጫ",
+    "changeLanguage": "የመተግበሪያ ቋንቋ"
+  }
+}
